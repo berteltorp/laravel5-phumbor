@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "illuminate/support": "5.*|6.*",
-        "99designs/phumbor": "^1.2"
+        "illuminate/support": "5.*|6.*|7.*|8.*",
+        "webfactory/phumbor": "^1.1"
     },
     "require-dev": {
         "graham-campbell/testbench": "^4.0"
